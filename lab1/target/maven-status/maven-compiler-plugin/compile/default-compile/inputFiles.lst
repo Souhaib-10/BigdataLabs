@@ -1,4 +1,7 @@
 D:\souhaib\ingenierie\Big_data\BigdataLabs\lab1\src\main\java\edu\supmti\hadoop\ReadHDFS.java
 D:\souhaib\ingenierie\Big_data\BigdataLabs\lab1\src\main\java\edu\supmti\hadoop\Main.java
+D:\souhaib\ingenierie\Big_data\BigdataLabs\lab1\src\main\java\edu\supmti\hadoop\WordCount.java
 D:\souhaib\ingenierie\Big_data\BigdataLabs\lab1\src\main\java\edu\supmti\hadoop\WriteHDFS.java
+D:\souhaib\ingenierie\Big_data\BigdataLabs\lab1\src\main\java\edu\supmti\hadoop\IntSumReducer.java
 D:\souhaib\ingenierie\Big_data\BigdataLabs\lab1\src\main\java\edu\supmti\hadoop\HadoopFileStatus.java
+D:\souhaib\ingenierie\Big_data\BigdataLabs\lab1\src\main\java\edu\supmti\hadoop\TokenizerMapper.java

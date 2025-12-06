@@ -44,10 +44,10 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.supmti.hadoop.WriteHDFS</mainClass>
+                            <mainClass>edu.supmti.hadoop.WordCount</mainClass>
                         </manifest>
                     </archive>
-                    <finalName>WriteHDFS</finalName>
+                    <finalName>WordCount</finalName>
                 </configuration>
             </plugin>
         </plugins>
